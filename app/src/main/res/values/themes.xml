@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.AtvSpeechToText" parent="@style/Theme.Leanback" />
+</resources>
